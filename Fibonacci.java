@@ -12,7 +12,8 @@ package jurnal.pkg1;
 public class Fibonacci {
     private int input;
     private int hasil;
-    
+    System.out.println(N2);
+    System.out.println(N2);
     public Fibonacci(){
     }
     
