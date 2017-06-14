@@ -10,7 +10,7 @@ package jurnal.pkg1;
  * @author Praktikum
  */
 public class Fibonacci {
-    private int input;
+    private float input;
     private int hasil;
 
     public Fibonacci(){
